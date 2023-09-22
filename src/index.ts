@@ -1,4 +1,4 @@
-console.log('connected to server nowwww')
+console.log('connected to server')
 let getUserName = document.querySelector('input') as HTMLInputElement;
 let form = document.querySelector('form') as HTMLFormElement;
 let btn = document.getElementById('btn') as HTMLButtonElement;
